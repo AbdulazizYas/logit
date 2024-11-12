@@ -16,13 +16,13 @@
 
    - **To download to the root folder**:
      ```bash
-     curl -O https://raw.githubusercontent.com/yourusername/LogIt/main/logit.sh
+     curl -O https://raw.githubusercontent.com/abdulazizyas/logit/main/logit.sh
      ```
 
    - **To download to a specific directory**:
      ```bash
      mkdir -p path/to/your_directory
-     curl -o path/to/your_directory/logit.sh https://raw.githubusercontent.com/yourusername/LogIt/main/logit.sh
+     curl -o path/to/your_directory/logit.sh https://raw.githubusercontent.com/abdulazizyas/logit/main/logit.sh
      ```
 
 2. **Source `logit.sh` in your script**  
@@ -111,7 +111,7 @@ For more information, see the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file.
 
 ## Issues
 
-If you encounter any issues while using LogIt, please feel free to submit an issue on the [GitHub Issues page](https://github.com/yourusername/LogIt/issues). Include as much information as possible, such as:
+If you encounter any issues while using LogIt, please feel free to submit an issue on the [GitHub Issues page](https://github.com/abdulazizyas/logit/issues). Include as much information as possible, such as:
 
 - A clear description of the issue.
 - Steps to reproduce the issue.
